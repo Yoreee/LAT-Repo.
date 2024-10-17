@@ -1,1 +1,1 @@
-# LAT-Repo.
+# LAT
